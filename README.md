@@ -1,3 +1,3 @@
 ######## This is protected file #############
 
-Linux is opensource operating system
+Linux is opensource and powerful operating system
